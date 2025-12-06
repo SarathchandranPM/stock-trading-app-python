@@ -1,6 +1,0 @@
-requests
-openai
-dotenv
-# csv
-pandas
-snowflake-connector-python[pandas]
